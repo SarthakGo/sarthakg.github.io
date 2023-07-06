@@ -1,4 +1,4 @@
-# Pre-Final Year Studnet at BITS Pilani,Pilani Campus
+# Pre-Final Year Student at BITS Pilani,Pilani Campus
 
 #### Technical Skills: C/C++, Python, SQL, MATLAB
 
